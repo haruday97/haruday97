@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![My Blog](https://img.shields.io/badge/My%20Blog-harubang.tistory.com-blue?style=for-the-badge&logo=Blogger&logoColor=white)](https://harubang.tistory.com/)
+[![My Blog](https://img.shields.io/badge/My%20Blog-harubang.tistory.com-blue?style=for-the-badge&logo=Tistory&logoColor=white)](https://harubang.tistory.com/)
 
 스택<br>
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
