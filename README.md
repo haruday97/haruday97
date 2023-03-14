@@ -28,5 +28,5 @@ Here are some ideas to get you started:
 <br>
 [![Blog](https://img.shields.io/badge/Blog-harubang.tistory.com-blue?style=for-the-badge&logo=Tistory&logoColor=white)](https://harubang.tistory.com/)
  <a href="mailto:hitenshi1997@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=hitenshi1997@gmail.com" alt="Gmail" width="120" height="30">
+  <img src="https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=hitenshi1997@gmail.com" alt="Gmail" width="120" height="28">
 </a>
