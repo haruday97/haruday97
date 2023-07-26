@@ -25,8 +25,6 @@ Here are some ideas to get you started:
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-<br>
-[![Blog](https://img.shields.io/badge/Blog-harubang.tistory.com-blue?style=for-the-badge&logo=Tistory&logoColor=white)](https://harubang.tistory.com/)
  <a href="mailto:hitenshi1997@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-d14836?style=for-the-badge&logo=Gmail&logoColor=white&link=hitenshi1997@gmail.com" alt="Gmail" width="90" height="28">
 </a>
